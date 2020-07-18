@@ -1,12 +1,3 @@
-[![Contributors][contributors-shield]][https://github.com/lucasdasilvalima/weather-controller-station/pulse]
-[![Forks][forks-shield]][]
-[![Stargazers][stars-shield]][]
-[![Issues][issues-shield]][https://github.com/lucasdasilvalima/weather-controller-station/inssues]
-[![MIT License][license-shield]][]
-[![LinkedIn][linkedin-shield]][]
-
-
-
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
